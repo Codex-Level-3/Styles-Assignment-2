@@ -24,7 +24,7 @@ Displays a forest path image with a fading in animation on load or scroll in vie
 
 ## Deployment
 
-This project was deployed on netlify:
+This project was deployed on netlify: https://fm-img-showcase.netlify.app/
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
